@@ -11,7 +11,7 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 ---
 
 # 👩‍💻 About Me
-<img align="right" alt="Coding" width="300" height="250" src="./Programming Computer.svg"> 
+<img align="right" alt="Coding" width="290" height="200" src="./Programming Computer.svg"> 
 
 - 🎓 Computer Science Undergraduate at IMS Engineering College
 - 💻 Passionate about Full-Stack Development using React.js and Node.js
