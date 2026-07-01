@@ -9,19 +9,10 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 </p>
 
 ---
-<!-- <img align="right" alt="Coding" width="300" height="275" src="./Programming Computer.svg">  -->
-
-<!-- <img align="right" alt="Coding" width="300" height="275" src="./Contact Us _ FAQ.svg">  -->
 
 # 👩‍💻 About Me
-<img align="right" alt="Coding" width="250" height="275" src="./Programming Computer.svg"> 
+<img align="right" alt="Coding" width="290" height="285" src="./Programming Computer.svg"> 
 
-<!-- <img align="right" alt="Coding" width="300" height="275" src="./Coding.svg">  -->
-
-
-
-<!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> -->
-<!-- <img align="right" alt="Coding" width="300" src="./Contact Us _ FAQ.svg"> -->
 - 🎓 Computer Science Undergraduate at IMS Engineering College
 - 💻 Passionate about Full-Stack Development using React.js and Node.js
 - ☕ Strong foundation in Java and Data Structures & Algorithms
@@ -89,6 +80,5 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 <!-- <img src="https://komarev.com/ghpvc/?username=Arushi-20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> -->
 [![](https://komarev.com/ghpvc/?username=Arushi-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ **If you like my work, consider giving a star to my repositories!**
 
 </div>
