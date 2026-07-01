@@ -9,9 +9,10 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 </p>
 
 ---
+<img align="right" alt="Coding" width="300" height="275" src="./Coding.svg"> 
 
 # 👩‍💻 About Me
-<img align="right" alt="Coding" width="300" height="275" src="./Coding.svg"> 
+<!-- <img align="right" alt="Coding" width="300" height="275" src="./Coding.svg">  -->
 
 
 <!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> -->
