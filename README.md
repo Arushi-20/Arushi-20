@@ -17,10 +17,7 @@
 Hello! I'm **Arushi Sharma** 👋
 
 I'm a Computer Science undergraduate passionate about transforming ideas into impactful software.
-
 I enjoy developing modern web applications, solving challenging DSA problems in Java, and exploring Artificial Intelligence to create meaningful solutions.
-
-Every repository on my GitHub reflects my curiosity, consistency, and passion for learning.
 
 ✨ **Currently**
 - 🌱 Learning Advanced React, Node.js & Generative AI
@@ -70,15 +67,9 @@ Every repository on my GitHub reflects my curiosity, consistency, and passion fo
 🌿 **Eco Tracker**
 > A Full Stack web application to monitor carbon emissions with dashboards and personalized recommendations.
 
-🏛️ **CivicPulse AI**
-> AI-powered civic issue reporting platform with an Authority Dashboard.
-
 📝 **Online Test System**
 > Java, JDBC & MySQL based examination platform with automated result generation.
-
-🌦️ **Weather Forecast Website**
-> Responsive weather application using live API integration.
-
+> 
 ---
 
 # 📊 GitHub Stats
@@ -90,16 +81,6 @@ Every repository on my GitHub reflects my curiosity, consistency, and passion fo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arushi-20&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-20&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arushi-20&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
