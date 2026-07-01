@@ -13,12 +13,12 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 # 👩‍💻 About Me
 <img align="right" alt="Coding" width="290" height="200" src="./Programming Computer.svg"> 
 
-- 🎓 Computer Science Undergraduate at IMS Engineering College
-- 💻 Passionate about Full-Stack Development using React.js and Node.js
-- ☕ Strong foundation in Java and Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence and Generative AI
-- 🚀 Building scalable web applications and solving real-world problems
-- 🤝 Open to internships, collaborations, and open-source contributions
+-  Computer Science Undergraduate at IMS Engineering College
+-  Passionate about Full-Stack Development using React.js and Node.js
+-  Strong foundation in Java and Data Structures & Algorithms
+-  Exploring Artificial Intelligence and Generative AI
+-  Building scalable web applications and solving real-world problems
+-  Open to internships, collaborations, and open-source contributions
 
 > **"Transforming ideas into scalable software solutions." 🚀**
 
@@ -26,10 +26,10 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 
 ## 🌱 Currently Exploring
 
-- 💻 Mastering Backend Development
-- 🚀 Building Real-World Projects
-- 🤖 Exploring AI & Generative AI
-- 🌱 Growing as a Software Engineer
+-  Mastering Backend Development
+-  Building Real-World Projects
+-  Exploring AI & Generative AI
+-  Growing as a Software Engineer
 
 ---
 
