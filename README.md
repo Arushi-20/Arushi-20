@@ -14,7 +14,7 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 <!-- <img align="right" alt="Coding" width="300" height="275" src="./Contact Us _ FAQ.svg">  -->
 
 # 👩‍💻 About Me
-<img align="right" alt="Coding" width="300" height="275" src="./Programming Computer.svg"> 
+<img align="right" alt="Coding" width="250" height="275" src="./Programming Computer.svg"> 
 
 <!-- <img align="right" alt="Coding" width="300" height="275" src="./Coding.svg">  -->
 
