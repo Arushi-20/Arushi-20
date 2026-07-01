@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arushi Sharma</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | ☕ Java Programmer | 🤖 AI Enthusiast | 🚀 Lifelong Learner
+Computer Science Undergraduate | Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 </h3>
 
 <p align="center">
@@ -14,16 +14,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Hello! I'm **Arushi Sharma** 👋
-
-I'm a Computer Science undergraduate passionate about transforming ideas into impactful software.
-I enjoy developing modern web applications, solving challenging DSA problems in Java, and exploring Artificial Intelligence to create meaningful solutions.
-
-✨ **Currently**
-- 🌱 Learning Advanced React, Node.js & Generative AI
-- 💻 Solving Data Structures & Algorithms in Java
-- 🚀 Building Full Stack Projects
-- 🤝 Open to collaborating on innovative Open Source projects
+🎓 Computer Science Undergraduate at IMS Engineering College<br>💻 Full Stack Developer (React.js • Node.js • Java)<br>☕ Passionate Java Programmer & DSA Enthusiast<br>🤖 Exploring Artificial Intelligence & Generative AI<br>🚀 Building impactful web applications and real-world projects<br>🌱 Always learning, experimenting, and growing as a developer<br>🤝 Open to collaboration and exciting opportunities
 
 > **"Dream Big. Build Smart. Keep Learning." 🚀**
 
@@ -31,34 +22,7 @@ I enjoy developing modern web applications, solving challenging DSA problems in 
 
 # 💻 Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -74,33 +38,15 @@ I enjoy developing modern web applications, solving challenging DSA problems in 
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arushi-20&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arushi-20&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-20&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Arushi-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Arushi-20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arushi-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 # 📈 Contribution Graph
 
 [![Arushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arushi-20&theme=tokyo-night)](https://github.com/Arushi-20)
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Arushi_1818/">
-<img src="https://leetcard.jacoblin.cool/Arushi_1818?theme=dark&font=Poppins&ext=contest"/>
-</a>
-
-</p>
 
 ---
 
@@ -128,7 +74,8 @@ I enjoy developing modern web applications, solving challenging DSA problems in 
 
 ### 💡 *"Code with Curiosity • Build with Passion • Learn with Consistency."*
 
-<img src="https://komarev.com/ghpvc/?username=Arushi-20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Arushi-20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> -->
+[![](https://komarev.com/ghpvc/?username=Arushi-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
