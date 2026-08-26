@@ -5,7 +5,7 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast;Exploring+AI+%26+Generative+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+and +Engineering+Undergraduate;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast;Exploring+AI+%26+Generative+AI" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 # 👩‍💻 About Me
 <img align="right" alt="Coding" width="290" height="200" src="./Programming Computer.svg"> 
 
--  Computer Science and Engineering Undergraduate at IMS Engineering College
+-  CSE Undergraduate at IMS Engineering College
 -  Passionate about Full-Stack Development using React.js and Node.js
 -  Strong foundation in Java and Data Structures & Algorithms
 -  Exploring Artificial Intelligence and Generative AI
