@@ -15,14 +15,14 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast;Exploring+AI+%26+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=CSE++Undergraduate;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast;Exploring+AI+%26+Generative+AI" alt="Typing SVG" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="290" height="200" src="./programming-computer.svg">
+<img align="right" alt="Coding" width="290" height="200" src="./Programming Computer.svg">
 
 -  CSE Undergraduate at IMS Engineering College
 -  Passionate about Full-Stack Development using React.js and Node.js
