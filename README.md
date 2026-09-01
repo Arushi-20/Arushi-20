@@ -58,12 +58,6 @@ Full-Stack Developer | Java Developer | AI & Generative AI Enthusiast
 
 ---
 
-# 📈 Contribution Graph
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Arushi-20&theme=tokyo-night)](https://github.com/Arushi-20)
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
